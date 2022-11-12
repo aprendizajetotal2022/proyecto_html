@@ -1,0 +1,9 @@
+input{
+    width: 100%;
+}
+
+body{
+    background-image: url('../img/futbol.jpg');
+    background-size: cover;
+    color: white;
+}
