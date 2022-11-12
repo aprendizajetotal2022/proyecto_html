@@ -1,0 +1,97 @@
+Desplegar mi aplicación internet con github pages
+
+1. crear correo electronico
+
+usuario
+aprendizajetotal.2022@gmail.com
+
+contraseña
+Gapren_@2022
+
+3012571489
+
+2. -crear cuenta: github
+   -Entrar a google y escribir github
+   -Clic en github
+   -Clic en Sign Up    
+   -aprendizajetotal.2022@gmail.com  --- continue
+   -password: G@apren_@2022@
+   -username: aprendizajetotal2022 
+   -Quieres recibir informacion a tu correo: n
+   -Clic en verificar
+   -Clic en Create account
+   -Verificar en el correo que llegó un codigo y copiar y pegar
+    a github
+
+3. Instalar git
+   - escribir en google: git
+   - https://git-scm.com/
+   - Clic en Download
+
+   - Cual tipo de sistema tiene el equipo
+     - Abrir el explorador de archivos (tecla windows + e) 
+     - Clic derecho en este equipo
+     - Clic en propiedades
+     - Tipo de sistema: 64 bits
+
+   - Clic en 64-bit Git for Windows Setup.
+   - Clic derecho en git 
+   - Clic en Ejecutar como administrador
+   - Clic en Si 
+   - Clic en Next ....
+   - Clic en Install
+   - Marcar Launch Git bash y Clic en Finish 
+
+4. Configurar git
+   - Estando en git bash - digitar:
+   - git config --global user.name "Daniel"
+   - git config --global user.email "aprendizajetotal.2022@gmail.com"
+   - git config --global init.defaultBranch main    
+   
+   - Verificar estos datos 
+     - git config -l
+     - cat .gitconfig
+
+5. Crear un pequeño de html
+
+6. Crear un repositorio en github
+   - Clic en el signo mas
+   - Clic en New repository
+   - En Repository name = proyecto_html
+   - Description: escribo de que se trata el proyecto
+   - Debe de estar marcado: public
+   - Clic en Add a README file
+   - Clic en Create repository
+
+   - Clic en code
+   - Clic en el boton de copiar
+
+   - Nos vamos a git bash
+     - ls
+     - cd Documents
+     - git clone https://github.com/aprendizajetotal2022/proyecto_html.git
+     - Con esto realizo un clonado de mi repositorio en mi 
+       portatil que está en github  
+
+     - Copio y pego los archivos y carpetas del proyecto
+       a la carpeta proyecto_html
+
+     - cd proyecto_html
+  
+     - Comandos de git
+       - git status
+       - git add .
+       - git commit -m "Mi primer commit del proyecto"
+       - git push origin main
+   
+7. Generar url
+   - Clic en el suaurio
+   - Clic en settings del proyecto
+   - Clic en Pages
+   - Clic en Branch
+   - Clic en save
+   - Url generada 
+     - https://aprendizajetotal2022.github.io/proyecto_html/
+
+
+ 
