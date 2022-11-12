@@ -6,16 +6,14 @@ usuario
 aprendizajetotal.2022@gmail.com
 
 contraseña
-Gapren_@2022
-
-3012571489
+Digitar la contraseña
 
 2. -crear cuenta: github
    -Entrar a google y escribir github
    -Clic en github
    -Clic en Sign Up    
    -aprendizajetotal.2022@gmail.com  --- continue
-   -password: G@apren_@2022@
+   -password: digitar el password
    -username: aprendizajetotal2022 
    -Quieres recibir informacion a tu correo: n
    -Clic en verificar
@@ -94,4 +92,12 @@ Gapren_@2022
      - https://aprendizajetotal2022.github.io/proyecto_html/
 
 
- 
+
+
+Trabajo final----
+
+Van a crear proyecto de pagina web
+ese lo tiene que subir a internet
+- github
+- vercel
+- netlify
